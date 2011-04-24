@@ -4,7 +4,7 @@ jquery.delayedsearch.js adds functionality to an input box to delay a function c
 
 # Demo
 
-See a JSFiddle demo of jquery.delayedsearch at [http://jsfiddle.net/jookyboi/HTRMq/34/](http://jsfiddle.net/jookyboi/HTRMq/34/).
+See a JSFiddle demo of jquery.delayedsearch at [http://jsfiddle.net/jookyboi/HTRMq/34/](http://jsfiddle.net/jookyboi/HTRMq/34/)
 
 # Options
 
