@@ -13,8 +13,8 @@ See a JSFiddle demo of jquery.delayedsearch at [http://jsfiddle.net/jookyboi/HTR
 
 # Events
 
-The hintbox does not trigger any custom events.
+jquery.delayedsearch does not trigger any custom events.
 
 # Methods
 
-The hintbox does not expose any public methods.
+jquery.delayedsearch does not expose any public methods.
