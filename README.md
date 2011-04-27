@@ -8,8 +8,8 @@ See a JSFiddle demo of jquery.delayedsearch at [http://jsfiddle.net/jookyboi/HTR
 
 # Options
 
-* delay (int): The number of milliseconds to wait after the user has stopped typing before calling the function
-* call (function): The function to call after the delay
+* delay (int): Number of milliseconds to wait after the user has stopped typing before calling the function
+* call (function): Function to call after the delay
 
 # Events
 
